@@ -11,10 +11,16 @@ Assignment 1 :
 Assignment 2 :
 
 <ul>
-  <li (i)> Exploring Moby Dick novel with Natural Language Toolkit (NLTK): tokens, words, punctuations, sentence, part of speech, etc.</li>
-  <li (ii)> Spelling Recommender using various distance metrics based on corpus words library.</li>
+  <li> Exploring Moby Dick novel with Natural Language Toolkit (NLTK): tokens, words, punctuations, sentence, part of speech, etc.</li>
+  <li> Spelling Recommender using various distance metrics based on corpus words library.</li>
 </ul>
 
 Assignment 3 :
+
+Exploring text message data with sklearn vectrorizer. Build model to determine whether it is a spam or not with naive bayes, svc, and logistic.
+
+(Ongoing)
+
+Assignment 4 :
 
 (Ongoing)
