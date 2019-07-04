@@ -5,7 +5,7 @@ These self-works are used to finish Applied Text Mining in Python web course org
 
 Assignment 1 :
 
-  Working with messy medical data and using regex to extract information of date from the data. Using powerful Regular Expression operations --re library and pandas.
+Working with messy medical data and using regex to extract information of date from the data. Using powerful Regular Expression operations --re library and pandas.
 
 
 Assignment 2 :
@@ -19,8 +19,6 @@ Assignment 3 :
 
 Exploring text message data with sklearn vectrorizer. Build model to determine whether it is a spam or not with naive bayes, svc, and logistic.
 
-(Ongoing)
-
 Assignment 4 :
 
-(Ongoing)
+Exploring methods to determine similarities in text or documents. And using gensim library to learn topic modelling.
